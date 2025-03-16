@@ -2,7 +2,7 @@
 A fun game where the player guides a turtle to the top while avoiding moving cars. The game gets harder as car speeds increase with each level.  
 
 ## Screenshots
-![ss1](./screenshots/1.png), ![ss2](./screenshots/2.png), ![ss3](./screenshots/3.png)
+![ss1](./screenshots/1.PNG), ![ss2](./screenshots/2.PNG), ![ss3](./screenshots/3.PNG)
 
 ## Author
 Pranjal Sarnaik
